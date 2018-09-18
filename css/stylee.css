@@ -81,7 +81,7 @@ nav a:active{
 }
 
 #home {
-    background-color: rgb(253, 132, 119);
+    background-color: #f68375;
 }
 
 #front {
@@ -89,12 +89,12 @@ nav a:active{
 }
 
 #photo {
-    background-color: rgb(32, 212, 128);
+    background-color: #6ad57e;
 
 }
 
 #exper {
-    background-color: #00AABF;
+    background-color: #36a8be;
 }
 
 #vol {
@@ -211,7 +211,7 @@ nav a:active{
    background-color: #f68375;
 }
 .frontBody{
-    background-color: #36a8be;
+    background-color: rgb(47, 145, 140);
     width: 100%;
 
 }
@@ -219,7 +219,7 @@ nav a:active{
 background-color: #6ad57e;
 }
 .expBody{
-   background-color: rgb(0, 170, 185);
+   background-color: #36a8be;
 }
 .volBody{
  background-color: rgb(238, 224, 27);
